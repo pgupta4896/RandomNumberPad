@@ -24,6 +24,13 @@ To use `RandomeNumberPad` in your project:
 
    
 ## App Preview and Demo
+### Video Demo
+
+Watch the video below to see a demo of the `RandomNumberPad` in action:
+
+<div>
+     <img src="https://github.com/pgupta4896/RandomNumberPad/blob/main/Resources/SimulatorScreenRecording-iPhone15-2024-09-15at13.12.20-ezgif.com-video-to-gif-converter.gif" alt="GIF Demo" width="300" height="500"/>
+</div>
 
 ### Screenshot
 
@@ -31,17 +38,6 @@ Below is a screenshot showing the `RandomNumberPad` in action:
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
     <img src="https://github.com/pgupta4896/RandomNumberPad/blob/main/Resources/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-09-15%20at%2013.12.30.png" alt="App Preview" width="300" height="500"/>
-</div>
-
-### Video Demo
-
-Watch the video below to see a demo of the `RandomNumberPad` in action:
-
-<div style="display: flex; justify-content: center;">
-    <video width="300" height="500" controls>
-        <source src="https://github.com/pgupta4896/RandomNumberPad/blob/main/Resources/Simulator%20Screen%20Recording%20-%20iPhone%2015%20-%202024-09-15%20at%2013.12.20.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
 </div>
 
 ## Example Usage
